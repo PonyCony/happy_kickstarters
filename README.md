@@ -3,7 +3,8 @@
 EDA<br><br>
 
 
-[Jupyter notebook с кодом](https://github.com/PonyCony/happy_kickstarters/blob/master/Happy_Kickstarters.ipynb)<br><br><br>
+[Jupyter notebook с кодом](https://github.com/PonyCony/happy_kickstarters/blob/master/Happy_Kickstarters.ipynb)<br>
+[отчёт](https://github.com/PonyCony/happy_kickstarters/blob/master/%D0%BE%D1%82%D1%87%D0%B5%D1%82.docx)<br><br><br>
 
 
 
